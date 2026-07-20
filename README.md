@@ -31,9 +31,30 @@
 | 📝 Blog Management System | Blog platform with CRUD, authentication, comments, and image upload | Node.js, Express.js, MongoDB |
 | 🎬 Netflix Landing Page Clone | Responsive Netflix-inspired landing page | HTML, CSS, JavaScript |
 
-### 📊 GitHub Profile
+## 📈 Contribution Graph
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sud-deBUG66&theme=tokyo-night"/>
 </p>
-s
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sudharshan-h-s-4401a0253">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:prawjalhs@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sud-deBUG66">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+<h4 align="center">⭐ Thanks for visiting my profile!</br>
+If you like my work, consider giving a ⭐ to my repositories.</h4>
