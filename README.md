@@ -27,9 +27,20 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🛒 Shopora | Full Stack E-Commerce Platform with authentication, cart, wishlist, and admin dashboard | Node.js, Express.js, MongoDB, React |
-| 📝 Blog Management System | Blog platform with CRUD, authentication, comments, and image upload | Node.js, Express.js, MongoDB |
-| 🎬 Netflix Landing Page Clone | Responsive Netflix-inspired landing page | HTML, CSS, JavaScript |
+| 🛒 Shopora | Full Stack Multi-Vendor E-Commerce Platform featuring Customer, Vendor & Admin dashboards, authentication, product management, cart, wishlist, orders, payments, and analytics.| React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS,  |
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sud-debug66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sud-debug66&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 align="left">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sud-debug66&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 📈 Contribution Graph
 <p align="center">
