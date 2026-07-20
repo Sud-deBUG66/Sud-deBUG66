@@ -29,24 +29,6 @@
 |---------|-------------|------------|
 | 🛒 Shopora | Full Stack Multi-Vendor E-Commerce Platform featuring Customer, Vendor & Admin dashboards, authentication, product management, cart, wishlist, orders, payments, and analytics.| React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS,  |
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sud-deBUG66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sud-deBUG66&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<h2 align="left">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sud-deBUG66&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sud-deBUG66&theme=tokyo-night"/>
-</p>
-
 ## 📫 Connect With Me
 
 <p align="left">
